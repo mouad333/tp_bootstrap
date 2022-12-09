@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    height: 30px;
+    width: 30px;
+}
+ a .btn{
+    margin-left: 18%;      
+    margin-right: 18%;
+    width: auto;
+}
+
+.card {
+    text-align: center;
+    border-top-left-radius: 10em;
+    border-top-right-radius: 10em;
+  }
+  .card img {
+    border-top-left-radius: 10em;
+    border-top-right-radius: 10em;
+  }
+  .social-icons > a{
+      text-decoration: none;
+  }
+ 
+
+
+
+
+
+
+
+
+
+
