@@ -2,6 +2,12 @@
     margin: 0;
     padding: 0;
 }
+@media (min-width: 576px) and (max-width: 767.98px) {
+    [class*="tag"] {
+        float: left;
+        padding: 15px;
+        }
+}
 
 img{
     height: 30px;
@@ -25,6 +31,7 @@ img{
   .social-icons > a{
       text-decoration: none;
   }
+ 
  
 
 
